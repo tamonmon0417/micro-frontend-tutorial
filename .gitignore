@@ -2,3 +2,5 @@ products/dist
 products/node_modules
 container/dist
 container/node_modules
+cart/dist
+cart/node_modules
