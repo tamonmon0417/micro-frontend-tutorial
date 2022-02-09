@@ -30,6 +30,7 @@
       - different versions of MFE can be deployed and container can decide which one to use
     - cons
       - tooling + setup is far more complicated
+      - 同じpackageを複数回ロードしてしまいうる
   - server integration
     - not focus on this topic this time
 
